@@ -1,3 +1,3 @@
 # chessEngine
 
-A little help for my friend for school.
+I did not refactor the code. It's only helpful project for my friend.
